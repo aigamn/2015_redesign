@@ -18,6 +18,11 @@ h1, h2, h3, h4, h5, h6{
 	margin:0;
 }
 
+input,
+textarea{
+	border: 1px solid #5F5F5F;
+}
+
 /* ----- RE-USABLE DESIGN PATTERNS ----- */
 .focus-show-container{}
 
@@ -49,3 +54,35 @@ h1, h2, h3, h4, h5, h6{
 			line-height: 42px;
 			padding: 0 12px;
 		}
+
+	.site-header .dropdown-menu{
+		border-radius: 0;
+		margin:0;
+		width:320px;
+	}
+
+		.site-header .dropdown-menu li{}
+
+			.site-header .dropdown-menu li.form-control{
+				border:none;
+				box-shadow:none;
+				height:auto;
+				padding: 15px;
+			}
+
+				.site-header .dropdown-menu li.form-control input{
+					font-weight: 400;
+					padding: 5px;
+					width: 250px;
+				}
+
+			.site-header .dropdown-menu li a{
+				border: none;
+				color:#5F5F5F;
+				padding:0 16px;
+			}
+
+				.site-header li a .icon{
+					line-height: 42px;
+				}
+

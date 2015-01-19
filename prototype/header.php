@@ -16,8 +16,11 @@
 </head>
 <body>
 	<header class='site-header'>
-		<img class='logo' src='http://placehold.it/60x42/94deff/94deff' alt='logo'>
-		<ul class='list-unstyled list-inline pull-right'>
+		<a href='#'>
+			<img class='logo' src='http://placehold.it/60x42/94deff/94deff' alt='logo'>
+		</a>
+
+		<ul class='list-unstyled list-inline pull-right hidden-xs'>
 			<li>
 				<a href='#'>Events</a>
 			</li>
@@ -48,7 +51,7 @@
 					<li class='form-control'>
 						<label>
 							<form enctype='multpart/form-data' method='get'>
-								<input name='search' id='search' placeholder='search'>
+								<input name='s' id='s' placeholder='search'>
 								<button>
 									Go
 								</button>
@@ -57,5 +60,49 @@
 					</li>
 				</ul>
 			</li>
+		</ul>
+
+		<ul class='list-unstyled list-inline pull-right visible-xs'>
+			<li>
+				<a href='#'>Events</a>
+			</li>
+			<li>
+				<a href='#'>Communities</a>
+			</li>
+			<li class='dropdown pull-right'>
+				<a data-toggle='dropdown' aria-haspopup='true' aria-expanded='false'>
+					<span class='icon icon-search hidden-xs'></span>
+					<span class='icon icon-list visible-xs'></span>
+				</a>
+				
+				<ul class='dropdown-menu' role='menu'>
+					<li class='form-control'>
+						<label>
+							<form enctype='multpart/form-data' method='get'>
+								<input name='s' id='s' placeholder='search'>
+								<button>
+									Go
+								</button>
+							</form>
+						</label>
+					</li>
+					<li>
+						<a href='#'>Membership</a>
+					</li>
+					<li>
+						<a href='#'>Volunteer</a>
+					</li>
+					<li>
+						<a href='#'>Sponsorship</a>
+					</li>
+					<li>
+						<a href='#'>Resources</a>
+					</li>
+					<li>
+						<a href='#'>About</a>
+					</li>
+						</ul>
+					</li>
+
 		</ul>
 	</header>
