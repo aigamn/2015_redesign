@@ -5,6 +5,7 @@ body{
 	-moz-box-sizing:border-box;
 	box-sizing:border-box;
 	color:#515151;
+	font-size: 15px;
 }
 
 	body *{
@@ -13,14 +14,38 @@ body{
 		font-family: 'Source Sans Pro', sans-serif;
 	}
 
-/* ----- BOOTSTRAP OVERRIDES ----- */
+h1, h2, h3, h4, h5, h6{
+	margin:0;
+}
 
+/* ----- RE-USABLE DESIGN PATTERNS ----- */
+.focus-show-container{}
+
+	.focus-show-container .focus-show{
+		display:none;
+	}
+
+	.focus-show-container:focus .focus-show{
+		display:block;
+	}
+
+/* ----- BOOTSTRAP OVERRIDES ----- */
+.list-unstyled li{
+	margin:0;
+	padding:0;
+}
 
 /* ----- LAYOUT ----- */
 .site-header{
 	background-color: #515151;
 }
 
-	.site-header{
-		
-	}
+	.site-header li{}
+
+		.site-header li a{
+			border-left: 1px solid #7c7c7c;
+			color:#fff;
+			display: block;
+			line-height: 42px;
+			padding: 0 12px;
+		}

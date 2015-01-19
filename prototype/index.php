@@ -68,6 +68,13 @@
 			<a href='#' class='pull-right'>All Communities</a>
 			<div class='clearfix'></div>
 		</header>
+		<ul class='tiles list-unstyled'>
+			<li class='col-sm-4'>
+				<h3>
+					
+				</h3>
+			</li>
+		</ul>
 	</section>
 				
 	<img src='http://placehold.it/380x254/94deff/84CeEf' alt=''>
