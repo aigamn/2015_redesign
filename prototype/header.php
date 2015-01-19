@@ -51,7 +51,7 @@
 					<li class='form-control'>
 						<label>
 							<form enctype='multpart/form-data' method='get'>
-								<input name='s' id='s' placeholder='search'>
+								<input name='s' id='s' placeholder='search AIGA Minnesota'>
 								<button>
 									Go
 								</button>

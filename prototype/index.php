@@ -49,36 +49,158 @@
 
 			<!-- Wrapper for slides -->
 			<div class='carousel-inner col-md-8' role='listbox' >
+				
 				<div class='item active'>
+
 					<img src='http://placehold.it/768x432/94deff/84CeEf' alt=''>
-					<div class='carousel-caption'></div>
+
+					<div class='info'>
+						<h3>
+							Concordia Leaders of Design Series 2014, Tokyo Type Director’s Club Exhibition
+						</h3>
+						<p>
+							Wednesday, October 15th, 6:00pm until 9:00pm
+							<br>
+							Concordia University, Buetow Music Center Auditorium 
+						</p>
+					</div>
+					
+					<div class='actions'>
+						<a href='#' class='btn btn-info'>
+							Details
+						</a>
+						<a href='#' class='btn btn-info'>
+							Directions
+						</a>
+						<a href='#' class='btn btn-info'>
+							Register
+						</a>
+					</div>
+					
+				</div>
+
+				<div class='item'>
+
+					<img src='http://placehold.it/768x432/94deff/84CeEf' alt=''>
+
+					<div class='info'>
+						<h3>
+							Concordia Leaders of Design Series 2014, Tokyo Type Director’s Club Exhibition
+						</h3>
+						<p>
+							Wednesday, October 15th, 6:00pm until 9:00pm
+							<br>
+							Concordia University, Buetow Music Center Auditorium 
+						</p>
+					</div>
+					
+					<div class='actions'>
+						<a href='#' class='btn btn-info'>
+							Details
+						</a>
+						<a href='#' class='btn btn-info'>
+							Directions
+						</a>
+						<a href='#' class='btn btn-info'>
+							Register
+						</a>
+					</div>
+					
 				</div>
 				<div class='item'>
+
 					<img src='http://placehold.it/768x432/94deff/84CeEf' alt=''>
-					<div class='carousel-caption'></div>
+
+					<div class='info'>
+						<h3>
+							Concordia Leaders of Design Series 2014, Tokyo Type Director’s Club Exhibition
+						</h3>
+						<p>
+							Wednesday, October 15th, 6:00pm until 9:00pm
+							<br>
+							Concordia University, Buetow Music Center Auditorium 
+						</p>
+					</div>
+					
+					<div class='actions'>
+						<a href='#' class='btn btn-info'>
+							Details
+						</a>
+						<a href='#' class='btn btn-info'>
+							Directions
+						</a>
+						<a href='#' class='btn btn-info'>
+							Register
+						</a>
+					</div>
+					
 				</div>
 				<div class='item'>
+
 					<img src='http://placehold.it/768x432/94deff/84CeEf' alt=''>
-					<div class='carousel-caption'></div>
-				</div>
-				<div class='item'>
-					<img src='http://placehold.it/768x432/94deff/84CeEf' alt=''>
-					<div class='carousel-caption'></div>
+
+					<div class='info'>
+						<h3>
+							Concordia Leaders of Design Series 2014, Tokyo Type Director’s Club Exhibition
+						</h3>
+						<p>
+							Wednesday, October 15th, 6:00pm until 9:00pm
+							<br>
+							Concordia University, Buetow Music Center Auditorium 
+						</p>
+					</div>
+					
+					<div class='actions'>
+						<a href='#' class='btn btn-info'>
+							Details
+						</a>
+						<a href='#' class='btn btn-info'>
+							Directions
+						</a>
+						<a href='#' class='btn btn-info'>
+							Register
+						</a>
+					</div>
+					
 				</div>
 			</div>
 
 			<ul class='tiles col-md-4 list-unstyled carousel-indicators border-bottom'>
 				<li data-target='.carousel' data-slide-to='0' class='active'>
 					<span class='state-indicator'></span>
+					<h3>
+						 Concordia Leaders of Design Series 2014, Tokyo Type Director’s Club Exhibition
+					</h3>
+					<small>
+						Wednesday, October 15th
+					</small>
 				</li>
 				<li data-target='.carousel' data-slide-to='1'>
 					<span class='state-indicator'></span>
+					<h3>
+						 Concordia Leaders of Design Series 2014, Tokyo Type Director’s Club Exhibition
+					</h3>
+					<small>
+						Wednesday, October 15th
+					</small>
 				</li>
 				<li data-target='.carousel' data-slide-to='2'>
 					<span class='state-indicator'></span>
+					<h3>
+						 Concordia Leaders of Design Series 2014, Tokyo Type Director’s Club Exhibition
+					</h3>
+					<small>
+						Wednesday, October 15th
+					</small>
 				</li>
 				<li data-target='.carousel' data-slide-to='3'>
 					<span class='state-indicator'></span>
+					<h3>
+						 Concordia Leaders of Design Series 2014, Tokyo Type Director’s Club Exhibition
+					</h3>
+					<small>
+						Wednesday, October 15th
+					</small>
 				</li>
 			</ul>
 			
