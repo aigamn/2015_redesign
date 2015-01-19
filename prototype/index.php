@@ -206,6 +206,34 @@
 			
 			<div class='clearfix'></div>
 		</div>
+
+		<div class='visible-sm visible-xs'>
+			<img src='http://placehold.it/768x432/94deff/84CeEf' alt=''>
+
+			<div class='info'>
+				<h3>
+					Concordia Leaders of Design Series 2014, Tokyo Type Director’s Club Exhibition
+				</h3>
+				<p>
+					Wednesday, October 15th, 6:00pm until 9:00pm
+					<br>
+					Concordia University, Buetow Music Center Auditorium 
+				</p>
+			</div>
+			
+			<div class='actions'>
+				<a href='#' class='btn btn-info'>
+					Details
+				</a>
+				<a href='#' class='btn btn-info'>
+					Directions
+				</a>
+				<a href='#' class='btn btn-info'>
+					Register
+				</a>
+			</div>
+			
+		</div>
 	</section>
 
 	<section>

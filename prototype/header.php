@@ -37,10 +37,10 @@
 				<a href='#'>Sponsorship</a>
 			</li>
 			<li>
-				<a href='#'>Resources</a>
+				<a href='#'>About</a>
 			</li>
 			<li>
-				<a href='#'>About</a>
+				<a href='#'>Blog</a>
 			</li>
 			<li class='dropdown pull-right'>
 				<a id='search-dropdown-label' data-toggle='dropdown' aria-haspopup='true' aria-expanded='false'>
@@ -96,13 +96,13 @@
 						<a href='#'>Sponsorship</a>
 					</li>
 					<li>
-						<a href='#'>Resources</a>
-					</li>
-					<li>
 						<a href='#'>About</a>
 					</li>
-						</ul>
+					<li>
+						<a href='#'>Blog</a>
 					</li>
+				</ul>
+			</li>
 
 		</ul>
 	</header>
