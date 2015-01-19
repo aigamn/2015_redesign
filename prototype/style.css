@@ -35,10 +35,14 @@ textarea{
 	}
 
 /* ----- BOOTSTRAP OVERRIDES ----- */
-.list-unstyled li{
+.list-inline{
 	margin:0;
-	padding:0;
 }
+
+	.list-inline li{
+		margin:0;
+		padding:0;
+	}
 
 /* ----- LAYOUT ----- */
 .site-header{
@@ -85,4 +89,36 @@ textarea{
 				.site-header li a .icon{
 					line-height: 42px;
 				}
+
+
+/* ----- HOME ----- */
+#home{}
+
+	#home h1{
+		font-size: 20px;
+		padding:25px 0;
+	}
+
+	#home .social{
+		padding: 0 0 35px 0;
+	}
+
+		#home .social *{
+			display: inline-block;
+			height:32px;
+			line-height: 32px;
+			vertical-align: top;
+		}
+
+		#home .social a{
+			color:#515151;
+			font-size: 32px;
+			padding:0 5px;
+		}
+
+		#home .social small{
+			font-size: 14px;
+			padding-right:10px;
+		}
+
 

@@ -1,12 +1,12 @@
 
 <?php include_once('header.php'); ?>
 
-<div class='container'>
-	<h1>
+<div class='container' id='home'>
+	<h1 class='text-center'>
 		 AIGA Minnesota is the first place to turn for inspiration, professional development, and excellence in design in Minnesota. 
 	</h1>
 
-	<div class='social'>
+	<div class='social text-center'>
 		<small class='text-uppercase'>Connect with AIGA Minnesota</small>
 		<ul class='list-inline'>
 			<li>
