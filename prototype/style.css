@@ -283,6 +283,108 @@ ul.border-right{
 					right:0;
 				}
 
+/* ----- SINGLE EVENT ----- */
+
+.background {
+	background: linear-gradient(to bottom, #9CDAED 400px, #FFFFFF 400px, #FFFFFF 100%);
+	padding-top: 1px;
+}
+
+.event {
+	margin-top: 50px;
+	background-color: rgba(255, 255, 255, .8);
+	box-shadow: 0 0 10px #AAA;
+}
+
+	.event .header {
+		margin: 20px 20px;	
+	}
+
+	.event .register {
+		margin: 30px 10px;
+		font-size: 21px;
+		padding: 6px 20px;
+		line-height: 24px;
+	}
+		
+		.event .register a {
+			color: #515151;
+		}
+
+	.event .title, .event .date, .event .location {
+		font-weight: normal;
+	}
+
+	.event .date {
+		font-size: 24px;
+		color: #999999;
+		margin-top: 20px;
+	}
+
+	.event .location {
+		color: #337AB7;
+		font-size: 21px;
+		margin-top: 10px;
+	}
+	
+	.event .seats {
+		font-size: 16px;
+	}
+
+	.event .border-left li {
+		border-left: 1px solid #515151;
+	}
+
+	.event .calendar, .event .share {
+		margin: 20px 0;
+	}
+		
+		.event .calendar .icon-calendar {
+			font-size: 28px;		
+			padding: 0 15px;
+		}
+		
+		.event .calendar a {
+			color: #515151;
+			font-size: 21px;		
+			padding: 0 15px;
+		}
+		
+		.event .share a {
+			color: #515151;
+			font-size: 28px;
+			padding: 0 15px;
+		}
+		
+		.event .share small {
+			margin-top: 8px;
+		}
+		
+		.event .share .border-left li:first-child {
+			border-left: medium none;
+		}	
+
+	.event .main-image {
+		margin-bottom: 30px;
+		position: relative;
+	}
+
+	.event .pin-it {
+		position: absolute;
+		bottom: 30px;
+		right: 30px;
+	}
+
+	.event .main-text p {
+		font-size: 21px;
+   		margin-bottom: 21px;
+	}
+
+	.event .inline-block {
+		display: inline;
+		margin: 0 10px;
+	}
+
 /* ----- MOBILE ----- */
 @media(max-width: 767px){
 	
