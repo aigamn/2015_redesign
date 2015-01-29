@@ -5,7 +5,7 @@
 
 	<article class="container event">
 	
-		<header class="header">
+		<header class="header pull-left">
 			<h1 class="title">Concordia Leaders of Design Series 2014,<br>
 			Tokyo Type Director’s Club Exhibition</h1>
 			<h2 class="date">Wednesday, October 15th, 6:00pm until 9:00pm</h2>
