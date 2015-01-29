@@ -5,7 +5,7 @@
 
 	<article class="container event">
 	
-		<header class="header pull-left">
+		<header class="header">
 			<h1 class="title">Concordia Leaders of Design Series 2014,<br>
 			Tokyo Type Director’s Club Exhibition</h1>
 			<h2 class="date">Wednesday, October 15th, 6:00pm until 9:00pm</h2>
@@ -16,7 +16,7 @@
 
 		<div class="clearfix"></div>
 
-		<section class="col-xsm-12 col-md-10 col-md-offset-1">
+		<section class="col-md-10 col-md-offset-1">
 
 			<div class="calendar pull-left">
 				<span class="icon-calendar pull-left"></span>
