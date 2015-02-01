@@ -66,7 +66,7 @@
 					</div>
 					
 					<div class='actions'>
-						<a href='#' class='btn btn-info'>
+						<a href='single-event.php' class='btn btn-info'>
 							Details
 						</a>
 						<a href='#' class='btn btn-info'>
