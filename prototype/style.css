@@ -18,6 +18,8 @@ h1, h2, h3, h4, h5, h6{
 	margin:0;
 }
 
+
+
 input,
 textarea{
 	border: 1px solid #5F5F5F;
@@ -390,8 +392,8 @@ ul.border-right{
 .list{}
 
 	.list section{
-    margin: 30px 0;
-}
+		margin: 30px 0;
+	}
 
 	.list h1{
 		font-size: 32px;
@@ -405,7 +407,7 @@ ul.border-right{
 	}
 
 	.list h2{
-		font-size: 21px;
+		font-size: 24px;
 		margin-bottom: 5px;
 	}
 
@@ -437,6 +439,9 @@ ul.border-right{
 		.list li a{
 			font-weight:600;
 		}
+
+/* ----- GALLERY PAGES ----- */
+
 
 
 /* ----- MOBILE ----- */

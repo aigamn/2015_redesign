@@ -1,7 +1,7 @@
 
 <?php include_once('header.php'); ?>
 	
-	<div class='container list'>
+	<div class='container list communities'>
 		<h1>Communities</h1>
 		<p class='lead'>
 			Explanatory text about AIGA Minnesota Communities - what they are, why they exist, what value they add, if they need to be a member or whether or not they need to be a member in order to attend meetings, etc.
