@@ -4,7 +4,7 @@
 	<div class='container list communities'>
 		<h1>Events</h1>
 		<p class='lead'>
-			Explanatory text about AIGA Minnesota Communities - what they are, why they exist, what value they add, if they need to be a member or whether or not they need to be a member in order to attend meetings, etc.
+			Explanatory text about AIGA Minnesota fdsafdsa Communities - what they are, why they exist, what value they add, if they need to be a member or whether or not they need to be a member in order to attend meetings, etc.
 		</p>
 
 		<section>

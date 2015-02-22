@@ -3,24 +3,35 @@
 
 	<div class="background"> <!--temporary solution to show blue background at top of page -->
 
-	<article class="container event">
-	
-		<header class="header pull-left">
-			<h1 class="title">Concordia Leaders of Design Series 2014,<br>
-			Tokyo Type Director’s Club Exhibition</h1>
-			<h2 class="date">Wednesday, October 15th, 6:00pm until 9:00pm</h2>
-			<h3 class="location">Concordia University Buetow Music Center Auditorium</h3>
-		</header>
+		<article class="container single">
 
-		<button type="button" class="btn btn-default pull-right register"><a href="#">Register<br><span class="seats">10 seats left</a></span></button>
+			<header class="cta-header">
+				<h1>Concordia Leaders of Design Series 2014,Tokyo Type Director’s Club Exhibition</h1>
 
-		<div class="clearfix"></div>
+				<h2>Wednesday, October 15th, 6:00pm until 9:00pm</h2>
+				<h3>
+					<a target='_blank' href='https://www.google.com/maps/place/Buetow+Music+Center+Auditorium/@44.949722,-93.155686,17z/data=!3m1!4b1!4m2!3m1!1s0x87f62a73017132a1:0xb4f30b62160ec60a'>
+						Concordia University Buetow Music Center Auditorium
+					</a>
+				</h3>
 
-		<section class="col-md-10 col-md-offset-1">
+				<a href="#" class="btn btn-default cta">
+					Register
+					<br>
+					<small>
+						10 seats left
+					</small>
+				</a>
 
-			<div class="calendar pull-left">
-				<span class="icon-calendar pull-left"></span>
-				<ul class="list-inline border-left inline-block">
+			</header>
+
+			<section class="col-md-10 col-md-offset-1">
+
+				<ul tabindex='0' class="actions left xs-halves xs-focus-reveal list-inline">
+					<li class='headline'>
+						<span class="icon-calendar icon"></span>
+						<span class='xs-inline-block'>Add to Calendar</span>
+					</li>
 					<li>
 						<a href="#">
 							iCal
@@ -32,49 +43,48 @@
 						</a>	
 					</li>
 				</ul>
-			</div>
-
-			<div class="share pull-right">
-				<small class="text-uppercase pull-left">share it:</small>
-				<ul class="list-inline border-left inline-block">
+					
+				<ul tabindex='0' class="right actions xs-fourths xs-focus-reveal list-inline">
+					<li class='headline'>
+						<small class="text-uppercase">share it:</small>
+					</li>
 					<li>
-						<a href='#'>
-							<span class='icon-facebook'></span>
+						<a href='#' class='no-border'>
+							<span class='icon-facebook icon'></span>
 						</a>
 					</li>
 					<li>
 						<a href='#'>
-							<span class='icon-twitter'></span>
+							<span class='icon-twitter icon'></span>
 						</a>
 					</li>
 					<li>
 						<a href='#'>
-							<span class='icon-instagram'></span>
+							<span class='icon-instagram icon'></span>
 						</a>
 					</li>
 					<li>
 						<a href='#'>
-							<span class='icon-linkedin'></span>
+							<span class='icon-linkedin icon'></span>
 						</a>
 					</li>
 				</ul>
-			</div>
 
-			<div class="clearfix"></div>
+				<div class="clearfix"></div>
 
-			<div class="main-image">
-				<img src="http://placehold.it/1024x576/94deff/84CeEf" class="img-responsive" alt="place holder image" />
-				<a href="#">
-					<img src="images/pin-it.png" class="pin-it" alt="pin it place holder" />
-				</a>
-			</div>
-			<div class="main-text">
-				<p>The Tokyo Type Directors Club is one of the most prestigious organizations in the eld of typography and graphic design. Their annual competition is a touchstone among the world’s leading art directors, designers and typographic masters. It celebrates the spirit of typography and encourages and rewards experimentation into both form and language.</p>
-				<p>3500 entries, submitted from all over the world, were assessed and selected by a global array of jurors including internationally recognized Jon Forss of Non-Format and fteen of Japan’s leading typographers and graphic designers. Of the 300 works selected by the TTDC, over 200 of the “best of the best” works will be exhibited at Concordia University in St. Paul.</p>
-			</div>
-		</section>
-		
-	</article>
+				<div class="main-image">
+					<img src="http://placehold.it/1024x576/94deff/84CeEf" class="img-responsive" alt="place holder image" />
+					<a href="#">
+						<img src="images/pin-it.png" class="pin-it" alt="pin it place holder" />
+					</a>
+				</div>
+				<div class="main-text">
+					<p>The Tokyo Type Directors Club is one of the most prestigious organizations in the eld of typography and graphic design. Their annual competition is a touchstone among the world’s leading art directors, designers and typographic masters. It celebrates the spirit of typography and encourages and rewards experimentation into both form and language.</p>
+					<p>3500 entries, submitted from all over the world, were assessed and selected by a global array of jurors including internationally recognized Jon Forss of Non-Format and fteen of Japan’s leading typographers and graphic designers. Of the 300 works selected by the TTDC, over 200 of the “best of the best” works will be exhibited at Concordia University in St. Paul.</p>
+				</div>
+			</section>
+
+		</article>
 	
 	</div>
 
