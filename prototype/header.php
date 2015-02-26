@@ -17,7 +17,7 @@
 <body>
 	<header class='site-header'>
 		<a href='index.php'>
-			<img class='logo' src='http://placehold.it/60x42/94deff/94deff' alt='logo'>
+			<img class='logo' src='http://placehold.it/60x42/94deff/94deff?text=Logo' alt='logo'>
 		</a>
 
 		<ul class='list-unstyled list-inline pull-right hidden-xs'>

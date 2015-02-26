@@ -26,49 +26,68 @@
 			</header>
 
 			<section class="col-md-10 col-md-offset-1">
-
-				<ul tabindex='0' class="actions left xs-halves xs-focus-reveal list-inline">
-					<li class='headline'>
-						<span class="icon-calendar icon"></span>
-						<span class='xs-inline-block'>Add to Calendar</span>
-					</li>
-					<li>
-						<a href="#">
-							iCal
-						</a>
-					</li>
-					<li>
-						<a href="#">
-							Google Calendar
-						</a>	
-					</li>
-				</ul>
+				
+				<div class='reveal'>
+					<button class='btn btn-info visible-xs' data-toggle-parent='.reveal' data-toggle-class='expanded'>
+						<span class'icon-calendar icon'></span> 
+						Add to Calendar
+					</button>
 					
-				<ul tabindex='0' class="right actions xs-fourths xs-focus-reveal list-inline">
-					<li class='headline'>
-						<small class="text-uppercase">share it:</small>
-					</li>
-					<li>
-						<a href='#' class='no-border'>
-							<span class='icon-facebook icon'></span>
-						</a>
-					</li>
-					<li>
-						<a href='#'>
-							<span class='icon-twitter icon'></span>
-						</a>
-					</li>
-					<li>
-						<a href='#'>
-							<span class='icon-instagram icon'></span>
-						</a>
-					</li>
-					<li>
-						<a href='#'>
-							<span class='icon-linkedin icon'></span>
-						</a>
-					</li>
-				</ul>
+					<div class='reveal-content'>
+						<ul class="actions left xs-halves list-inline">
+							<li class='hidden-xs'>
+								<span class="icon-calendar icon"></span>
+							</li>
+							<li class='xs-first'>
+								<a href="#">
+									iCal
+								</a>
+							</li>
+							<li>
+								<a href="#">
+									Google Calendar
+								</a>	
+							</li>
+						</ul>
+					</div>
+				</div>
+
+				<div class="clearfix visible-xs"></div>
+				
+				<div class='reveal'>
+					<button class='btn btn-info visible-xs' data-toggle-parent='.reveal' data-toggle-class='expanded'>
+						<span class="glyphicon glyphicon-share icon"></span> 
+						Share It
+					</button>
+					
+					<div class='reveal-content'>
+						<ul class="right actions xs-fourths list-inline">
+							<li class='hidden-xs'>
+								<small class="text-uppercase">share it:</small>
+							</li>
+							<li class='xs-first'>
+								<a href='#' class='no-border'>
+									<span class='icon-facebook icon'></span>
+								</a>
+							</li>
+							<li>
+								<a href='#'>
+									<span class='icon-twitter icon'></span>
+								</a>
+							</li>
+							<li>
+								<a href='#'>
+									<span class='icon-instagram icon'></span>
+								</a>
+							</li>
+							<li>
+								<a href='#'>
+									<span class='icon-linkedin icon'></span>
+								</a>
+							</li>
+						</ul>
+					</div>
+				</div>
 
 				<div class="clearfix"></div>
 
