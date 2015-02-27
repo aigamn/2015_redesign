@@ -12,10 +12,13 @@ body{
 		-moz-box-sizing:border-box;
 		box-sizing:border-box;
 		font-family: 'Source Sans Pro', sans-serif;
+		font-weight:300;
 	}
 
 h1, h2, h3, h4, h5, h6{
+	
 	margin:0;
+	line-height: 1.24;
 }
 
 h1{
@@ -30,8 +33,11 @@ h3 {
 	font-size: 15px;
 }
 
-	h3
+hr{
+	border-top:1px dotted #515151;
+}
 
+h3
 input,
 textarea{
 	border: 1px solid #5F5F5F;
@@ -76,6 +82,7 @@ a:visited{
 .btn.btn-info{
 	background-color: #fff;
 	color:#515151;
+	border: 1px solid #94DEFF;
 }
 
 .xs-inline-block{
@@ -495,8 +502,11 @@ ul.border-right{
 		font-size: 16px;
 	}
 
-	h3{
-		font-size:14px;
+	{
+	}
+
+	.btn{
+		width:100%;
 	}
 
 	.xs-inline-block{
@@ -579,10 +589,35 @@ ul.border-right{
 	/* ----- REUSABLE DESIGN PATTERNS ----- */
 	.tiles{}
 
-		.tiles li{}
+		.tiles li{
+			padding: 6px 54px 6px 18px;
+			position:relative;
+		}
 
 			.tiles.border-right li{
 				border-right:none;
+			}
+
+			.tiles li h3{
+				font-size:15px;
+			}
+
+			.tiles li small{
+				font-size:12px;
+				font-weight:300;
+			}
+
+			.tiles li .state-indicator{
+				display:none;
+			}
+
+			.tiles .icon{
+				font-size:32px;
+				opacity: .2;
+				position:absolute;
+				right:8px;
+				top:50%;
+				margin-top:-16px;
 			}
 
 	.border-right{
@@ -608,7 +643,86 @@ ul.border-right{
 		}
 	
 	/* ----- HOME ----- */
+	#home p{
+		font-size:12px;
+		margin: 12px 0;
+	}
+
+	#home .social small{
+		font-size:13px
+	}
+
+	#home h1{
+		font-size: 16px;}
+
+	#home .info{
+		padding-left:10px
+	}
+
+	#home section header h2{
+		font-size:20px;
+		padding-bottom: 10px;
+	}
+	
+	#home section header a{
+		font-size:12px;
+	}
+
 	#home section.padded-left{
 		padding-left:0;
 	}
+
+	#home .events article{
+		border-top:1px dotted #ccc;
+		padding: 20px 0 0;
+		margin-top: 20px;
+	}
+
+	#home .actions{
+		margin:0;
+	}
+
+	#home .actions .btn.btn-info{
+		border:none;
+		font-size: 12px;
+		padding: 10px;
+		font-weight: 600;
+	}
+
+	#home .actions > *{
+		border:1px solid #515151;
+		border-width: 0 1px 0 0; 
+	}
+
+		#home .actions > *:first-child{
+			border-width: 0 1px 0 0; 
+		}
+
+		#home .actions > *:last-child{
+			border-width: 0; 
+		}
+
+	#home .events article.main{
+		border-top:1px dotted #515151;
+	
+		margin-top: 0;
+}
+
+	#home .main .actions > *{
+		border:1px solid #515151;
+		border-width: 1px 1px 1px 0; 
+	}
+
+		#home .main .actions > *:first-child{
+			border-width: 1px; 
+		}
+
+	#home .blog .tiles li{
+		padding:14px 14px 7px;
+	}
+
+		#home .blog .tiles li .btn{
+			font-size:12px;
+			padding:5px;
+		}
 }
