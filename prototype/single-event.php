@@ -6,8 +6,16 @@
 		<article class="container single">
 
 			<header class="cta-header">
-				<h1>Concordia Leaders of Design Series 2014,Tokyo Type Director’s Club Exhibition</h1>
 
+				<h1>Concordia Leaders of Design Series 2014,Tokyo Type Director’s Club Exhibition</h1>
+				
+				<div class="main-image visible-xs">
+					<img src="http://placehold.it/1024x576/94deff/84CeEf" class="img-responsive" alt="place holder image" />
+					<a href="#">
+						<img src="images/pin-it.png" class="pin-it" alt="pin it place holder" />
+					</a>
+				</div>
+				
 				<h2>Wednesday, October 15th, 6:00pm until 9:00pm</h2>
 				<h3>
 					<a target='_blank' href='https://www.google.com/maps/place/Buetow+Music+Center+Auditorium/@44.949722,-93.155686,17z/data=!3m1!4b1!4m2!3m1!1s0x87f62a73017132a1:0xb4f30b62160ec60a'>
@@ -91,7 +99,7 @@
 
 				<div class="clearfix"></div>
 
-				<div class="main-image">
+				<div class="main-image hidden-xs">
 					<img src="http://placehold.it/1024x576/94deff/84CeEf" class="img-responsive" alt="place holder image" />
 					<a href="#">
 						<img src="images/pin-it.png" class="pin-it" alt="pin it place holder" />
