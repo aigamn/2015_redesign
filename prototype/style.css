@@ -22,15 +22,15 @@ h1, h2, h3, h4, h5, h6{
 }
 
 h1{
-	font-size:27px;
+	font-size: 28px;
 }
 
 h2 {
-	font-size: 18px;
+	font-size: 21px;
 }
 
 h3 {
-	font-size: 15px;
+	font-size: 17px;
 }
 
 hr{
@@ -179,7 +179,8 @@ ul.border-right{
 		right:0;
 		position:absolute;
 		top:15px;
-	}
+	
+}
 
 		.cta-header .cta small {
 			font-size: 12px;
@@ -359,7 +360,7 @@ ul.border-right{
 }
 
 .single {
-	margin: 50px auto;
+	margin: 35px auto;
 	background-color: rgba(255, 255, 255, .8);
 	box-shadow: 0 0 10px #AAA;
 }
@@ -419,6 +420,27 @@ ul.border-right{
 	.single .main-text p {
 		font-size: 15px;
    		margin-bottom: 21px;
+	}
+
+	.single .main-text small {
+		display: block;
+		line-height: 1.2em;
+		margin:12px 0;
+		padding: 5px 10px;
+		color: #999;
+		border:1px solid #F6f6f6
+	}
+
+	.single .main-text section{
+		margin-top:20px;
+		border-top: 1px solid #ccc;
+		padding: 12px 0;
+	}
+
+	.single .main-text h3{
+		margin: 20px 0 10px;
+		border-bottom:1px dotted #ccc;
+		padding-bottom: 3px;
 	}
 
 
@@ -502,7 +524,8 @@ ul.border-right{
 		font-size: 16px;
 	}
 
-	{
+	h3{
+		font-size: 14px;
 	}
 
 	.btn{
@@ -579,6 +602,13 @@ ul.border-right{
 				display:block;
 				width:100%;
 			}
+
+	.single .main-text{}
+
+		.single .main-text p{
+			font-size: 12px;
+			margin: 12px 0;
+		}
 		
 	
 	/* ----- LAYOUT ----- */
@@ -631,7 +661,7 @@ ul.border-right{
 		.cta-header .cta{
 			margin: 15px 0 20px;
 			position:static;
-			font-size: 18px;
+			font-size: 16px;
 		}
 
 	.single{
