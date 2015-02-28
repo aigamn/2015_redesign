@@ -3,77 +3,49 @@
 
 	<div class="background"> <!--temporary solution to show blue background at top of page -->
 
-	<article class="container event">
-	
-		<header class="header pull-left">
-			<h1 class="title">Sponsorship</h1>
-			<h2 class="date">Wednesday, October 15th, 6:00pm until 9:00pm</h2>
-			<h3 class="location">Concordia University Buetow Music Center Auditorium</h3>
-		</header>
+		<article class="container single">
 
-		<button type="button" class="btn btn-default pull-right register"><a href="#">Register<br><span class="seats">10 seats left</a></span></button>
+			<header class="cta-header">
 
-		<div class="clearfix"></div>
+				<h1>Sponsorship</h1>
+				
+				<div class="main-image visible-xs">
+					<img src="http://placehold.it/1024x576/94deff/84CeEf" class="img-responsive" alt="place holder image" />
+				</div>
 
-		<section class="col-md-10 col-md-offset-1">
-
-			<div class="calendar pull-left">
-				<span class="icon-calendar pull-left"></span>
-				<ul class="list-inline border-left inline-block">
-					<li>
-						<a href="#">
-							iCal
-						</a>
-					</li>
-					<li>
-						<a href="#">
-							Google Calendar
-						</a>	
-					</li>
-				</ul>
-			</div>
-
-			<div class="share pull-right">
-				<small class="text-uppercase pull-left">share it:</small>
-				<ul class="list-inline border-left inline-block">
-					<li>
-						<a href='#'>
-							<span class='icon-facebook'></span>
-						</a>
-					</li>
-					<li>
-						<a href='#'>
-							<span class='icon-twitter'></span>
-						</a>
-					</li>
-					<li>
-						<a href='#'>
-							<span class='icon-instagram'></span>
-						</a>
-					</li>
-					<li>
-						<a href='#'>
-							<span class='icon-linkedin'></span>
-						</a>
-					</li>
-				</ul>
-			</div>
-
-			<div class="clearfix"></div>
-
-			<div class="main-image">
-				<img src="http://placehold.it/1024x576/94deff/84CeEf" class="img-responsive" alt="place holder image" />
-				<a href="#">
-					<img src="images/pin-it.png" class="pin-it" alt="pin it place holder" />
+				<a href="mailto:development@aigaminnesota.org" class="btn btn-default cta">
+					Contact
+					<br>
+					<small>
+						development@aigaminnesota.org
+					</small>
 				</a>
+
+			</header>
+
+			<div class="col-md-10 col-md-offset-1">
+
+				<div class="main-image hidden-xs">
+					<img src="http://placehold.it/1024x576/94deff/84CeEf" class="img-responsive" alt="place holder image" />
+					<a href="#">
+						<img src="images/pin-it.png" class="pin-it" alt="pin it place holder" />
+					</a>
+				</div>
+				<div class="main-text">
+					<p>
+						Get your name out there. Expand your reach. Be seen an a positive light by client-trusted designers and design thinkers. Consider sponsoring AIGA Minnesota.
+					</p>
+					<h3>Ways to Sponsor</h3>
+					<p>
+						Our sponsors contribute in different ways. Some make financial contributions. Others donate in other ways, with event materials, hosting events, and refreshments. Want to make a big impact? Become a chapter sponsor, and find an audience at every one of our many events. Looking for something more specific? You can sponsor individual events or a series of events.
+					</p>
+					<p>
+						Contact <a href='mailto:sponsorship@aigaminnesota.org'>sponsorship@aigaminnesota.org</a> for more information about partnering with us as a sponsor.
+					</p>
+				</div> <!-- end .main-text -->
 			</div>
-			<div class="main-text">
-				<p>The Tokyo Type Directors Club is one of the most prestigious organizations in the eld of typography and graphic design. Their annual competition is a touchstone among the world’s leading art directors, designers and typographic masters. It celebrates the spirit of typography and encourages and rewards experimentation into both form and language.</p>
-				<p>3500 entries, submitted from all over the world, were assessed and selected by a global array of jurors including internationally recognized Jon Forss of Non-Format and fteen of Japan’s leading typographers and graphic designers. Of the 300 works selected by the TTDC, over 200 of the “best of the best” works will be exhibited at Concordia University in St. Paul.</p>
-			</div>
-		</section>
-		
-	</article>
+
+		</article>
 	
 	</div>
 
