@@ -610,6 +610,11 @@ ul.border-right{
 			margin: 12px 0;
 		}
 		
+		.single .main-text li{
+			font-size: 12px;
+			margin: 12px 0;
+		}
+		
 	
 	/* ----- LAYOUT ----- */
 	.container{

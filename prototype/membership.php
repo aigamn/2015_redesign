@@ -3,75 +3,70 @@
 
 	<div class="background"> <!--temporary solution to show blue background at top of page -->
 
-	<article class="container event">
-	
-		<header class="header pull-left">
-			<h1 class="title">Membership</h1>
-        </header>
+		<article class="container single">
 
-		<button type="button" class="btn btn-default pull-right register"><a href="#">Register<br><span class="seats">10 seats left</a></span></button>
+			<header class="cta-header">
 
-		<div class="clearfix"></div>
+				<h1>Membership</h1>
+				
+				<div class="main-image visible-xs">
+					<img src="http://placehold.it/1024x576/94deff/84CeEf" class="img-responsive" alt="place holder image" />
+				</div>
 
-		<section class="col-md-10 col-md-offset-1">
-
-			<div class="calendar pull-left">
-				<span class="icon-calendar pull-left"></span>
-				<ul class="list-inline border-left inline-block">
-					<li>
-						<a href="#">
-							iCal
-						</a>
-					</li>
-					<li>
-						<a href="#">
-							Google Calendar
-						</a>	
-					</li>
-				</ul>
-			</div>
-
-			<div class="share pull-right">
-				<small class="text-uppercase pull-left">share it:</small>
-				<ul class="list-inline border-left inline-block">
-					<li>
-						<a href='#'>
-							<span class='icon-facebook'></span>
-						</a>
-					</li>
-					<li>
-						<a href='#'>
-							<span class='icon-twitter'></span>
-						</a>
-					</li>
-					<li>
-						<a href='#'>
-							<span class='icon-instagram'></span>
-						</a>
-					</li>
-					<li>
-						<a href='#'>
-							<span class='icon-linkedin'></span>
-						</a>
-					</li>
-				</ul>
-			</div>
-
-			<div class="clearfix"></div>
-
-			<div class="main-image">
-				<img src="http://placehold.it/1024x576/94deff/84CeEf" class="img-responsive" alt="place holder image" />
-				<a href="#">
-					<img src="images/pin-it.png" class="pin-it" alt="pin it place holder" />
+				<a href="mailto:membership@aigaminnesota.org" class="btn btn-default cta">
+					Contact
+					<br>
+					<small>
+						membership@aigaminnesota.org
+					</small>
 				</a>
+
+			</header>
+
+			<div class="col-md-10 col-md-offset-1">
+
+				<div class="main-image hidden-xs">
+					<img src="http://placehold.it/1024x576/94deff/84CeEf" class="img-responsive" alt="place holder image" />
+					<a href="#">
+						<img src="images/pin-it.png" class="pin-it" alt="pin it place holder" />
+					</a>
+				</div>
+				<div class="main-text">
+					<p>
+						Why should you join AIGA? Because you want to ensure that your profession is strong, relevant, and influential. Because you want to make an investment in yourself and your career, and other other like-minded, fun individuals. Also, you get benefits, including discounts on popular events like Design Camp and Portfolio 1-on-1, access to the national AIGA Design Directory, and original published content only available to AIGA members. See a list of all membership benefits.
+					</p>
+
+					<p>
+						<a href='' class='btn btn-primary'>
+							<strong>
+								Join AIGA
+							</strong>
+						</a>
+						<small>
+							Note: Sign Up is done through the AIGA national site
+						</small>
+					</p>
+					<h3>Already a member?</h3>
+					<p>
+						
+						<a href='' class='btn btn-info'>Renew your membership</a>
+					</p>
+					<p>
+						<a href='' class='btn btn-info'>Update your profile</a>
+					</p>
+					
+					<section id='benefits'>
+						<h3>Membership Benefits</h3>
+
+						<p>
+
+							Updated list of member benefits. They don’t seem very appealing in their current state
+						</p>
+					</section>
+				</div> <!-- end .main-text -->
 			</div>
-			<div class="main-text">
-				<p>The Tokyo Type Directors Club is one of the most prestigious organizations in the eld of typography and graphic design. Their annual competition is a touchstone among the world’s leading art directors, designers and typographic masters. It celebrates the spirit of typography and encourages and rewards experimentation into both form and language.</p>
-				<p>3500 entries, submitted from all over the world, were assessed and selected by a global array of jurors including internationally recognized Jon Forss of Non-Format and fteen of Japan’s leading typographers and graphic designers. Of the 300 works selected by the TTDC, over 200 of the “best of the best” works will be exhibited at Concordia University in St. Paul.</p>
-			</div>
-		</section>
-		
-	</article>
+
+		</article>
 	
 	</div>
 
