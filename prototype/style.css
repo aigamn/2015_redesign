@@ -362,7 +362,7 @@ ul.border-right{
 .single {
 	margin: 35px auto;
 	background-color: rgba(255, 255, 255, .8);
-	box-shadow: 0 0 10px #AAA;
+	box-shadow: 0 0 20px -5px #38545e;
 }
 
 	.single .actions.left{

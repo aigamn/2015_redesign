@@ -7,7 +7,7 @@
 
 			<header class="cta-header">
 
-				<h1>About</h1>
+				<h1>About AIGA Minnesota</h1>
 				
 				<div class="main-image visible-xs">
 					<img src="http://placehold.it/1024x576/94deff/84CeEf" class="img-responsive" alt="place holder image" />
