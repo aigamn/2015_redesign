@@ -243,46 +243,6 @@
 				</div>
 
 			</article>
-
-			<article>
-
-				<div class='col-xs-5'>
-					<img src='http://placehold.it/768x432/94deff/84CeEf' alt='' class='img-responsive' >
-				</div>
-
-				<div class='info col-xs-7'>
-					<h3>
-						Concordia Leaders of Design Series 2014, Tokyo Type Director’s Club Exhibition
-					</h3>
-				</div>
-
-				<div class='clearfix'></div>
-
-				<p>
-					Wed Oct 15, 6:00pm until 9:00pm
-					<br>
-					Concordia University, Buetow Music Center Auditorium 
-				</p>
-
-				<div class='actions row'>
-					<div class='col-xs-4'>
-						<a href='single-event.php' class='btn btn-info'>
-							Details
-						</a>
-					</div>
-					<div class='col-xs-4'>
-						<a href='#' class='btn btn-info'>
-							Directions
-						</a>
-					</div>
-					<div class='col-xs-4'>
-						<a href='#' class='btn btn-info'>
-							Register
-						</a>
-					</div>
-				</div>
-
-			</article>
 			
 			<article>
 
@@ -380,34 +340,40 @@
 		</header>
 		<ul class='tiles list-unstyled border-right border-bottom clearfix'>
 			<li class='col-sm-4 active'>
-				<span class='state-indicator'></span>
-				<h3>
-					Design for Good: Monthly Meeting
-				</h3>
-				<small>
-					Thursday, October 16th
-				</small>
-				<span class='icon icon-arrow-right visible-xs'></span>
+				<a href='single-community.php'>
+					<span class='state-indicator'></span>
+					<h3>
+						Design for Good: Monthly Meeting
+					</h3>
+					<small>
+						Thursday, October 16th
+					</small>
+					<span class='icon icon-arrow-right visible-xs'></span>
+				</a>
 			</li>
 			<li class='col-sm-4'>
-				<span class='state-indicator'></span>
-				<h3>
-					Career Practice: Monthly Meeting
-				</h3>
-				<small>
-					Friday, October 17th
-				</small>
-				<span class='icon icon-arrow-right visible-xs'></span>
+				<a href='single-community.php'>
+					<span class='state-indicator'></span>
+					<h3>
+						Career Practice: Monthly Meeting
+					</h3>
+					<small>
+						Friday, October 17th
+					</small>
+					<span class='icon icon-arrow-right visible-xs'></span>
+				</a>
 			</li>
 			<li class='col-sm-4'>
-				<span class='state-indicator'></span>
-				<h3>
-					Design for Good: Monthly Meeting
-				</h3>
-				<small>
-					Thursday, October 16th
-				</small>
-				<span class='icon icon-arrow-right visible-xs'></span>
+				<a href='single-community.php'>
+					<span class='state-indicator'></span>
+					<h3>
+						Design for Good: Monthly Meeting
+					</h3>
+					<small>
+						Thursday, October 16th
+					</small>
+					<span class='icon icon-arrow-right visible-xs'></span>
+				</a>
 			</li>
 		</ul>
 		<p class='visible-xs'>
@@ -424,7 +390,7 @@
 			<h2 class='pull-left'>
 				Blog
 			</h2>
-			<a href='blog.php' class='pull-right hidden-xs'>All Blog Entries</a>
+			<a href='blog-list.php' class='pull-right hidden-xs'>All Blog Entries</a>
 			<div class='clearfix'></div>
 		</header>
 		<ul class='tiles list-unstyled border-bottom'>

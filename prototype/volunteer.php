@@ -49,7 +49,6 @@
 					<section>
 
 						<h2>Committee Opportunities</h2>
-						<h3>Portfolio 1-on-1</h3>
 						<p>We are looking for 15-20 people to join this year’s Portfolio 1-on-1 Committee. Although an event for students, we need associate and professional members to volunteer in order to make this event a success! By joining this committee you will be helping students prepare for their professional careers along with giving back to your design community. Additionally, you’ll meet local design leaders and educators. The committee will meet twice a month from November to April and the kick off meeting is <span class="aBn" tabindex="0" data-term="goog_1271725225"><span class="aQJ">Wednesday, November 19</span></span>, at <span class="aBn" tabindex="0" data-term="goog_1271725226"><span class="aQJ">6:30</span></span> in conference room B at the International Market Square. <a href="http://imsdesigncenter.com/info/hours-directions/" target="_blank">imsdesigncenter.com/info/<wbr>hours-directions/</a></p>
 						<p>RSVP to Michelle Hagen if you’re planning on attending the kick off meeting or would like to learn more: <a href="mailto:volunteers@aigaminnesota.org" target="_blank">volunteers@aigaminnesota.org</a>. If you are a student who wishes to join the committee, act fast, we will reserve 4 seats on the committee for students (depending on level of interest from students, we will hold interviews to decide who should sit on the committee).</p>
 						<p>&nbsp;</p>
