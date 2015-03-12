@@ -118,6 +118,8 @@
 								</p>
 							</div>
 						</article>
+
+						<div class='clearfix'></div>
 					</section>
 
 					<section class=''>
