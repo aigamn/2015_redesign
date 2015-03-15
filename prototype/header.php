@@ -2,6 +2,8 @@
 <html lang='en'>
 <head>
 	<meta charset='UTF-8'>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
 	<title>AIGA Minnesota Redesign</title>
 
 	<link rel='stylesheet' href='//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css'>
@@ -17,30 +19,30 @@
 <body>
 	<header class='site-header'>
 		<a href='index.php'>
-			<img class='logo' src='http://placehold.it/60x42/94deff/94deff' alt='logo'>
+			<img class='logo' src='http://placehold.it/100x42/94deff/94deff?text=Logo' alt='logo'>
 		</a>
 
 		<ul class='list-unstyled list-inline pull-right hidden-xs'>
 			<li>
-				<a href='#'>Events</a>
+				<a href='events-list.php'>Events</a>
 			</li>
 			<li>
 				<a href='communities-list.php'>Communities</a>
 			</li>
 			<li>
-				<a href='#'>Membership</a>
+				<a href='membership.php'>Membership</a>
 			</li>
 			<li>
-				<a href='#'>Volunteer</a>
+				<a href='volunteer.php'>Volunteer</a>
 			</li>
 			<li>
-				<a href='#'>Sponsorship</a>
+				<a href='sponsorship.php'>Sponsorship</a>
 			</li>
 			<li>
-				<a href='#'>About</a>
+				<a href='about.php'>About</a>
 			</li>
 			<li>
-				<a href='#'>Blog</a>
+				<a href='blog-list.php'>Blog</a>
 			</li>
 			<li class='dropdown pull-right'>
 				<a id='search-dropdown-label' data-toggle='dropdown' aria-haspopup='true' aria-expanded='false'>
@@ -64,10 +66,10 @@
 
 		<ul class='list-unstyled list-inline pull-right visible-xs'>
 			<li>
-				<a href='#'>Events</a>
+				<a href='events-list.php'>Events</a>
 			</li>
 			<li>
-				<a href='#'>Communities</a>
+				<a href='communities-list.php'>Communities</a>
 			</li>
 			<li class='dropdown pull-right'>
 				<a data-toggle='dropdown' aria-haspopup='true' aria-expanded='false'>
@@ -87,19 +89,19 @@
 						</label>
 					</li>
 					<li>
-						<a href='#'>Membership</a>
+						<a href='membership.php'>Membership</a>
 					</li>
 					<li>
-						<a href='#'>Volunteer</a>
+						<a href='volunteer.php'>Volunteer</a>
 					</li>
 					<li>
-						<a href='#'>Sponsorship</a>
+						<a href='sponsorship.php'>Sponsorship</a>
 					</li>
 					<li>
-						<a href='#'>About</a>
+						<a href='about.php'>About</a>
 					</li>
 					<li>
-						<a href='#'>Blog</a>
+						<a href='blog-list.php'>Blog</a>
 					</li>
 				</ul>
 			</li>
